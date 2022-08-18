@@ -1,0 +1,2 @@
+V:\My Project\Checkers VoX DoX\AnonfilesChecker\AnonfilesChecker\bin\Release\net6.0\publish\win-x86\AnonfilesChecker.pdb
+V:\My Project\Checkers VoX DoX\AnonfilesChecker\AnonfilesChecker\bin\Release\net6.0\publish\win-x86\AnonfilesChecker.exe

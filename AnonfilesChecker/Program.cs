@@ -99,7 +99,7 @@ namespace AnonfilesChecker
 
         public static string RandomString(int length)
         {
-            const string chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+            const string chars = "abcdefghijklnopqrstuvwxyz12345678901234567890QWERTYUIOPASDFGHJKLZXCVBNM";
             return new string(Enumerable.Repeat(chars, length)
               .Select(s => s[random.Next(s.Length)]).ToArray());
         }

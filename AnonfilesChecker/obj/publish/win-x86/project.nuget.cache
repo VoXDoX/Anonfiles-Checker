@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Xjonoai7qk6+e2uCxIsIgxIjeJqcJeEHy7VqcADcniQHzleu8HPpqlNak4HYXXQnSdAi0ANXI3d7sQ7XZApvQ==",
+  "success": true,
+  "projectFilePath": "V:\\My Project\\Checkers VoX DoX\\AnonfilesChecker\\AnonfilesChecker\\AnonfilesChecker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Вокся\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.7\\microsoft.netcore.app.runtime.win-x86.6.0.7.nupkg.sha512",
+    "C:\\Users\\Вокся\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.7\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.7.nupkg.sha512",
+    "C:\\Users\\Вокся\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.7\\microsoft.aspnetcore.app.runtime.win-x86.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

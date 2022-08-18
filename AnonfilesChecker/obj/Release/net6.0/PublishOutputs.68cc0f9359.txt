@@ -1,0 +1,5 @@
+V:\My Project\Checkers VoX DoX\AnonfilesChecker\AnonfilesChecker\bin\Release\net6.0\publish\AnonfilesChecker.exe
+V:\My Project\Checkers VoX DoX\AnonfilesChecker\AnonfilesChecker\bin\Release\net6.0\publish\AnonfilesChecker.dll
+V:\My Project\Checkers VoX DoX\AnonfilesChecker\AnonfilesChecker\bin\Release\net6.0\publish\AnonfilesChecker.deps.json
+V:\My Project\Checkers VoX DoX\AnonfilesChecker\AnonfilesChecker\bin\Release\net6.0\publish\AnonfilesChecker.runtimeconfig.json
+V:\My Project\Checkers VoX DoX\AnonfilesChecker\AnonfilesChecker\bin\Release\net6.0\publish\AnonfilesChecker.pdb
